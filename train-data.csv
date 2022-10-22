@@ -1,0 +1,844 @@
+1. Name,2. select book,3. Number of quantity,zoner
+Y Pradeep,The Data science handbook-Field cady,1,data science
+Y Pradeep,Practical statistics for data scientist,1,data science
+Y Pradeep,The Data science handbook-Field cady,1,data science
+Y Pradeep,Data science with python,1,data science
+Y Pradeep,Data science for dummies,1,data science
+Y Pradeep,Data science from scratch,2,data science
+E Pradeep,Python Crash course by Eric Matthes,1,python
+E Pradeep,Data science with python,1,data science
+E Pradeep,Machine learning with python,1,data science
+E Pradeep,"Head-First Python,2nd edition",1,python
+E Pradeep,Data science with python,1,data science
+E Pradeep,Machine learning with python,1,data science
+G Ratnakumar,The Data science handbook-Field cady,1,data science
+M Pradeep,Machine learning for beginners,1,data science
+U Rajasekhar,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+M Pradeep,Data science from scratch,1,data science
+M Pradeep,Data science for dummies,1,data science
+M Pradeep,Data science from scratch,1,data science
+G Ratnakumar,Data science with python,1,data science
+G Ratnakumar,Practical statistics for data scientist,1,data science
+P Pradeep,Machine learning and deep learning,1,data science
+P Pradeep,Mastering machine learning algorithm,1,data science
+Sree krishna,"HTML,CSS,Javascript web publishing",1,web dev
+Sree krishna,"The full stack developer,Chris Northwood",1,web dev
+Sree krishna,"HTML,CSS,Javascript web publishing",1,web dev
+U Rajasekhar,Angular for beginners,1,web dev
+U Rajasekhar,"HTML,CSS,Javascript web publishing",1,web dev
+U Rajasekhar,Angular for beginners,1,web dev
+Yamini,Angular for beginners,1,web dev
+Yamini,Reactjs for beginners,1,web dev
+Yamini,Angular for beginners,1,web dev
+Yamini,Angular for beginners,1,web dev
+G Surya,Data science for dummies,1,data science
+L Surya,Data science with python,1,data science
+Sree krishna,"HTML,CSS,Javascript web publishing",1,web dev
+A Mahathi,Mastering machine learning algorithm,1,data science
+A Mahathi,Hands on Machine Learning with scikit-learn,1,data science
+L Surya,Practical statistics for data scientist,1,data science
+L Surya,Data science for dummies,1,data science
+G Surya,Practical statistics for data scientist,1,data science
+G Surya,Practical statistics for data scientist,1,data science
+G Surya,The Data science handbook-Field cady,1,data science
+P Pradeep,Machine learning with python,1,data science
+G Ratnakumar,Data science for dummies,1,data science
+G Ratnakumar,Data science for dummies,1,data science
+P Pradeep,Practical statistics for data scientist,1,data science
+G Surya,Data science from scratch,1,data science
+A Mahathi,Machine learning with python,1,data science
+A Mahathi,Machine learning and deep learning,1,data science
+N Divyasree,"The frame work for web-development,angular",1,web dev
+N Divyasree,Angular for beginners,1,web dev
+M Deepa,App development using Java &XML,1,web dev
+M Deepa,"UX,UI design for beginners",1,web dev
+M Deepa,"UX,UI design for beginners",1,web dev
+A Kalyan babu,Machine learning with python,1,data science
+A Kalyan babu,Machine learning for beginners,1,data science
+Jagannadh,Hands on Machine Learning with scikit-learn,1,data science
+Jagannadh,Data science for dummies,1,data science
+Jagannadh,The Data science handbook-Field cady,1,data science
+Jagannadh,Practical statistics for data scientist,1,data science
+A Kalyan babu,Mastering machine learning algorithm,2,data science
+T Ganesh,App development using Java &XML,1,web dev
+T Ganesh,"UX,UI design for beginners",1,web dev
+T Ganesh,App development using Java &XML,1,web dev
+Bhuvaneswari,Reactjs for beginners,1,web dev
+Bhuvaneswari,"Reactjs,the main pillar of web-development",1,web dev
+Bhuvaneswari,"The frame work for web-development,angular",1,web dev
+Parthasarathy,"Reactjs,the main pillar of web-development",1,web dev
+A Hari,Reactjs for beginners,1,web dev
+A Hari,"Reactjs,the main pillar of web-development",1,web dev
+A Hari,Reactjs for beginners,1,web dev
+V Divyasree,Angular for beginners,1,web dev
+V Divyasree,"Reactjs,the main pillar of web-development",1,web dev
+N Divyasree,Angular for beginners,1,web dev
+V Divyasree,Angular for beginners,1,web dev
+Z Divyasree,Angular for beginners,1,web dev
+Z Divyasree,"The frame work for web-development,angular",1,web dev
+Z Divyasree,Angular for beginners,1,web dev
+Bhuvaneswari,Reactjs for beginners,1,web dev
+Parthasarathy,"Reactjs,the main pillar of web-development",1,web dev
+N Divyasree,"Reactjs,the main pillar of web-development",1,web dev
+Parthasarathy,Reactjs for beginners,1,web dev
+Parthasarathy,live web server with Reactjs and firebase,1,web dev
+B Ratnakumar,Data science with python,1,data science
+T Manasa,"HTML,CSS,Javascript web publishing",1,web dev
+B Ratnakumar,Practical statistics for data scientist,1,data science
+B Ratnakumar,The Data science handbook-Field cady,1,data science
+B Ratnakumar,Practical statistics for data scientist,1,data science
+T Manasa,Machine learning for beginners,1,data science
+G Pradeep,Machine learning for beginners,1,data science
+G Pradeep,Machine learning with python,1,data science
+G Pradeep,Data science with python,1,data science
+J Pradeep,Data science for dummies,1,data science
+J Pradeep,The Data science handbook-Field cady,1,data science
+J Pradeep,Machine learning for beginners,1,data science
+T Manasa,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+T Manasa,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+R Prasanna,Angular for beginners,1,web dev
+S Mahendra,Data science from scratch,1,data science
+S Mahendra,Practical statistics for data scientist,1,data science
+D Jayasurya,Machine learning for beginners,1,data science
+D Jayasurya,Machine learning for beginners,1,data science
+T Prasanna,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+T Prasanna,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+N Surya,Data science for dummies,1,data science
+Y Manasa kumari,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+H Ratnakumar,Data science for dummies,1,data science
+T Prasanna,"UX,UI design for beginners",1,web dev
+Mahendra,Data science for dummies,2,data science
+A Deepthi,App development using Java &XML,1,web dev
+A Deepthi,"UX,UI design for beginners",1,web dev
+A Deepthi,"UX,UI design for beginners",1,web dev
+R Prasanna,"Reactjs,the main pillar of web-development",1,web dev
+R Prasanna,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+O Prasanna kumar,Backbone of webdevelopment-angular,1,web dev
+O Prasanna kumar,App development using Java &XML,1,web dev
+O Prasanna kumar,live web server with Reactjs and firebase,1,web dev
+G Rajasekhar,App development using Java &XML,1,web dev
+N Surya,Practical statistics for data scientist,1,data science
+G Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+B Surya,Data science for dummies,1,data science
+H Ratnakumar,Data science from scratch,1,data science
+Manasa,"Head-First Python,2nd edition",2,python
+M Surya,Practical statistics for data scientist,1,data science
+B Surya,Practical statistics for data scientist,1,data science
+Manaswi,Reactjs for beginners,1,web dev
+Manoj,"Reactjs,the main pillar of web-development",1,web dev
+Manoj,Angular for beginners,1,web dev
+P Jayasurya,Machine learning with python,1,data science
+T Akhil,"The full stack developer,Chris Northwood",1,web dev
+Y Manasa kumari,live web server with Reactjs and firebase,1,web dev
+Lokesh,live web server with Reactjs and firebase,1,web dev
+Lokesh,"Reactjs,the main pillar of web-development",1,web dev
+Lokesh,live web server with Reactjs and firebase,1,web dev
+H Ratnakumar,Data science from scratch,1,data science
+Nagasai M,Data science for dummies,1,data science
+B Surya,Practical statistics for data scientist,1,data science
+G Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+K Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+N Surya,Data science for dummies,1,data science
+Mahendra,Data science with python,1,data science
+M Rajasekhar,"HTML,CSS,Javascript web publishing",1,web dev
+M Rajasekhar,Backbone of webdevelopment-angular,1,web dev
+H Mani,Data science with python,1,data science
+H Sivakumar,Data science for dummies,1,data science
+M Rajasekhar,"UX,UI design for beginners",1,web dev
+M Ranaprathap,Data science with python,1,data science
+P Ranaprathap,The Data science handbook-Field cady,1,data science
+N Ravi kumar,Data science with python,1,data science
+N Ravi kumar,Data science with python,1,data science
+M Ranaprathap,Data science for dummies,1,data science
+N Ravi kumar,Data science from scratch,1,data science
+Y Manasa kumari,"HTML,CSS,Javascript web publishing",1,web dev
+J Ranaprathap,Practical statistics for data scientist,1,data science
+J Ranaprathap,The Data science handbook-Field cady,1,data science
+J Ranaprathap,Data science from scratch,1,data science
+H Mani,Data science for dummies,1,data science
+M Ravindra,The Data science handbook-Field cady,1,data science
+M Surya,Data science for dummies,1,data science
+G Ranaprathap,Data science with python,1,data science
+U Ravindra,The Data science handbook-Field cady,1,data science
+U Ravindra,Data science with python,1,data science
+U Ravindra,Data science for dummies,1,data science
+M Ravindra,Data science with python,1,data science
+G Ranaprathap,The Data science handbook-Field cady,1,data science
+D Sivakumar,Data science for dummies,1,data science
+M Ravindra,Data science for dummies,1,data science
+G Rajasekhar,Angular for beginners,1,web dev
+G Ranaprathap,Practical statistics for data scientist,1,data science
+Nagasai M,Data science with python,1,data science
+B Nithish,Data science from scratch,1,data science
+B Nithish,Data science for dummies,1,data science
+N Deepa,"UX,UI design for beginners",1,web dev
+N Deepa,App development using Java &XML,1,web dev
+D Sivakumar,Data science with python,1,data science
+D Sivakumar,Data science for dummies,1,data science
+C Nagasai,Practical statistics for data scientist,1,data science
+G Munisai,Data science with python,1,data science
+G Rajasekhar,Reactjs for beginners,1,web dev
+B Nithish,Data science for dummies,1,data science
+N Manasa,Angular for beginners,1,web dev
+G Munisai,Data science for dummies,1,data science
+V Mani,Data science for dummies,1,data science
+V Mani,The Data science handbook-Field cady,1,data science
+V Mani,Data science from scratch,1,data science
+G Munisai,Data science for dummies,1,data science
+N Manasa,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+B Ranaprathap Reddy,Data science with python,1,data science
+B Ranaprathap Reddy,Data science for dummies,1,data science
+A Deepa,App development using Java &XML,1,web dev
+A Deepa,App development using Java &XML,1,web dev
+Mohith kumar,"The full stack developer,Chris Northwood",1,web dev
+B Deepak,Data science with python,1,data science
+B Deepak,Python Crash course by Eric Matthes,1,python
+Teja,Data science from scratch,1,data science
+B Deepak,Data science with python,1,data science
+Teja,Data science with python,1,data science
+Teja,Think python:how to think like a computer scientist,1,python
+K Pradeep,Machine learning with python,1,data science
+K Pradeep,Machine learning for beginners,1,data science
+N Pradeep,Data science for dummies,1,data science
+N Pradeep,Data science for dummies,1,data science
+N Pradeep,Data science with python,1,data science
+Mohith kumar,"UX,UI design for beginners",1,web dev
+Sushmitha,Python Crash course by Eric Matthes,1,python
+Sushmitha,Python Crash course by Eric Matthes,1,python
+Rajani,Data science for dummies,1,data science
+Rajani,Data science from scratch,1,data science
+G Sasidhar,"The full stack developer,Chris Northwood",1,web dev
+N Nithish yadav,Mastering machine learning algorithm,1,data science
+N Nithish yadav,Machine learning with python,1,data science
+N Nithish yadav,Machine learning and deep learning,1,data science
+G Sasidhar,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+R Pradeep,Machine learning for beginners,1,data science
+A Haribabu,Machine learning for beginners,1,data science
+D Sirish,Data science for dummies,1,data science
+Venkatvijay,python programming:using problem solving approach,1,python
+Venkatvijay,"Head-First Python,2nd edition",1,python
+Triveni,"Head-First Python,2nd edition",1,python
+Triveni,Data structure and algorithm through python,1,python
+Triveni,Data science with python,1,data science
+Venkatvijay,Python Crash course by Eric Matthes,1,python
+D Sirish,Data science with python,1,data science
+K Sirish,Machine learning with python,1,data science
+K Sirish,The Data science handbook-Field cady,1,data science
+A Haribabu,Hands on Machine Learning with scikit-learn,1,data science
+G Sasidhar,"The full stack developer,Chris Northwood",1,web dev
+A Haribabu,Machine learning and deep learning,1,data science
+P Jayasurya,Machine learning and deep learning,1,data science
+B Pradeep,Python Crash course by Eric Matthes,1,python
+B Pradeep,Data science with python,1,data science
+C Pradeep,Python Crash course by Eric Matthes,1,python
+C Pradeep,Machine learning with python,1,data science
+C Pradeep,Data science with python,1,data science
+D Pradeep,"Head-First Python,2nd edition",1,python
+D Pradeep,Data science with python,1,data science
+D Pradeep,Machine learning with python,1,data science
+X Divyasree,Angular for beginners,1,web dev
+U Pradeep,Machine learning and deep learning,1,data science
+X Divyasree,Angular for beginners,1,web dev
+Sneha,Machine learning with python,2,data science
+Sneha,Python Crash course by Eric Matthes,1,python
+Manogna,Machine learning for beginners,1,data science
+Manaswi,Machine learning with python,1,data science
+Manaswi,"Head-First Python,2nd edition",1,python
+U Pradeep,Hands on Machine Learning with scikit-learn,1,data science
+Likitha,Data science from scratch,1,data science
+V Pradeep,Practical statistics for data scientist,1,data science
+P Hemanth,Machine learning for beginners,1,data science
+V Pradeep,Data science for dummies,1,data science
+P Hemanth,Machine learning with python,1,data science
+C Akhil,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+T Akhil,"The frame work for web-development,angular",1,web dev
+Manogna,"Invent your own computer games with python,4th edition",1,python
+Manogna,Python Crash course by Eric Matthes,1,python
+B Hari,"Reactjs,the main pillar of web-development",1,web dev
+Manasa,Data structure and algorithm through python,1,python
+B Hari,"Reactjs,the main pillar of web-development",1,web dev
+S Pradeep,Machine learning for beginners,1,data science
+B Divyasree,Hands on Machine Learning with scikit-learn,1,data science
+S Pradeep,Machine learning with python,1,data science
+B Divyasree,Machine learning for beginners,1,data science
+A Akhil,Angular for beginners,1,web dev
+A Akhil,Reactjs for beginners,1,web dev
+B Divyasree,Data structure and algorithm through python,1,python
+C Divyasree,Data science from scratch,1,data science
+C Akhil,Angular for beginners,1,web dev
+A Akhil,Machine learning with python,1,data science
+M Divyasree,App development using Java &XML,1,web dev
+C Divyasree,Data science for dummies,1,data science
+D Divyasree,"UX,UI design for beginners",1,web dev
+T Pradeep,Machine learning and deep learning,1,data science
+D Divyasree,"The frame work for web-development,angular",1,web dev
+D Divyasree,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+T R Manasa,Backbone of webdevelopment-angular,1,web dev
+B Manasa,live web server with Reactjs and firebase,1,web dev
+T Sathish kumar,Data science from scratch,1,data science
+M Manasa,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+J Sirish,Machine learning for beginners,1,data science
+MK Sirish,Machine learning with python,1,data science
+GH Nagendra,Machine learning for beginners,1,data science
+GH Nagendra,Data science with python,1,data science
+D Nagendra,Machine learning for beginners,1,data science
+RT Manasa,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+K Manasa,"HTML,CSS,Javascript web publishing",1,web dev
+P Rajasekhar,Reactjs for beginners,1,web dev
+L Rajasekhar,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+T Rajasekhar,"Reactjs,the main pillar of web-development",1,web dev
+A Umakanth,"Reactjs,the main pillar of web-development",1,web dev
+A Umakanth,"The full stack developer,Chris Northwood",1,web dev
+B Rajasekhar,"The full stack developer,Chris Northwood",1,web dev
+E Rajasekhar,"The frame work for web-development,angular",1,web dev
+B Ashwin,"The full stack developer,Chris Northwood",1,web dev
+D Sasidhar,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+B Sasidhar,"The frame work for web-development,angular",1,web dev
+B Sasidhar,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+K Rajasekhar,"The frame work for web-development,angular",1,web dev
+I Rajasekhar,Backbone of webdevelopment-angular,1,web dev
+Y Akhil,"The full stack developer,Chris Northwood",1,web dev
+Y Akhil,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+R Akhil,Backbone of webdevelopment-angular,1,web dev
+O Akhil,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+N Akhil,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+R Akhil,"UX,UI design for beginners",1,web dev
+R Ashwin,"UX,UI design for beginners",1,web dev
+I Rajasekhar,Backbone of webdevelopment-angular,1,web dev
+R Ashwin,"Reactjs,the main pillar of web-development",1,web dev
+K Akhil,Angular for beginners,1,web dev
+K Akhil,Angular for beginners,1,web dev
+B Ashwin,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+H Akhil,"Reactjs,the main pillar of web-development",1,web dev
+G Akhil,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+T Sathish,Data science for dummies,1,data science
+N Rajasekhar,Angular for beginners,1,web dev
+A Sathish,Data science from scratch,1,data science
+O Rajasekhar,Angular for beginners,1,web dev
+T Sathish,Data science for dummies,1,data science
+Y Sathish kumar,Data science for dummies,1,data science
+P Kalyan ram,Machine learning with python,1,data science
+P Kalyan ram,The Data science handbook-Field cady,1,data science
+T Kalyan ram,Data science for dummies,1,data science
+M Kalyan ram,The Data science handbook-Field cady,1,data science
+A Manasa,"The full stack developer,Chris Northwood",1,web dev
+M Sai Hithesh,Machine learning for beginners,1,data science
+A Sasidhar,"Reactjs,the main pillar of web-development",1,web dev
+V Rajasekhar,"Reactjs,the main pillar of web-development",1,web dev
+P Rajasekhar,"UX,UI design for beginners",1,web dev
+T Rajasekhar,"The frame work for web-development,angular",1,web dev
+L Rajasekhar,live web server with Reactjs and firebase,1,web dev
+M Sai Hithesh,Data structure and algorithm through python,1,python
+B Manasa,"The frame work for web-development,angular",1,web dev
+R Sai hithesh,Data science for dummies,1,data science
+R Sathish kumar,Data science from scratch,1,data science
+T Sathish kumar,Machine learning for beginners,1,data science
+N Rajasekhar,live web server with Reactjs and firebase,1,web dev
+Y Sathish kumar,Data science from scratch,1,data science
+M Saiteja,Machine learning with python,1,data science
+H Saiteja,"Head-First Python,2nd edition",1,python
+H Saiteja,Machine learning with python,1,data science
+I Saiteja,Machine learning with python,1,data science
+J Saiteja,Python Crash course by Eric Matthes,1,python
+J Saiteja,Machine learning with python,1,data science
+L Saiteja,"Head-First Python,2nd edition",1,python
+L Saiteja,Machine learning for beginners,1,data science
+M Saiteja,"Head-First Python,2nd edition",1,python
+G Saiteja,Machine learning with python,1,data science
+N Saiteja,python programming:using problem solving approach,1,python
+N Saiteja,Machine learning with python,1,data science
+O Saiteja,Python Crash course by Eric Matthes,1,python
+O Saiteja,Machine learning with python,1,data science
+P Saiteja,"Head-First Python,2nd edition",1,python
+P Saiteja,Machine learning with python,1,data science
+S Saiteja,"Head-First Python,2nd edition",1,python
+S Saiteja,Machine learning with python,1,data science
+A Saiteja,Machine learning with python,1,data science
+C Deepthi,App development using Java &XML,1,web dev
+D Deepthi,"UX,UI design for beginners",1,web dev
+E Deepthi,"UX,UI design for beginners",1,web dev
+D Deepthi,App development using Java &XML,1,web dev
+G Deepthi,"UX,UI design for beginners",1,web dev
+G Deepthi,App development using Java &XML,1,web dev
+H Deepthi,"UX,UI design for beginners",1,web dev
+H Deepthi,App development using Java &XML,1,web dev
+I Deepthi,"UX,UI design for beginners",1,web dev
+I Deepthi,App development using Java &XML,1,web dev
+A Saiteja,Python Crash course by Eric Matthes,1,python
+B Saiteja,Machine learning for beginners,1,data science
+C Saiteja,"Head-First Python,2nd edition",1,python
+C Saiteja,Mastering machine learning algorithm,1,data science
+D Saiteja,Python Crash course by Eric Matthes,1,python
+D Saiteja,Machine learning with python,1,data science
+G Saiteja,"Head-First Python,2nd edition",1,python
+L Deepak,Python Crash course by Eric Matthes,1,python
+L Deepak,Data science from scratch,1,data science
+M Deepak,"Head-First Python,2nd edition",1,python
+M Deepak,Data science with python,1,data science
+N Deepak,"Head-First Python,2nd edition",1,python
+N Deepak,Data science with python,1,data science
+O Deepak,"Head-First Python,2nd edition",1,python
+P Deepak,Python Crash course by Eric Matthes,1,python
+P Deepak,Data science with python,1,data science
+R Deepak,"Head-First Python,2nd edition",1,python
+K Deepak,Data science with python,1,data science
+S Deepak,"Head-First Python,2nd edition",1,python
+T Deepak,Python Crash course by Eric Matthes,1,python
+T Deepak,Data science with python,1,data science
+U Deepak,Python Crash course by Eric Matthes,1,python
+U Deepak,Data science from scratch,1,data science
+V Deepak,Python Crash course by Eric Matthes,1,python
+A Pradeep,Data science with python,1,data science
+D Deepak,"Head-First Python,2nd edition",1,python
+T Saiteja,Machine learning with python,1,data science
+U Saiteja,Python Crash course by Eric Matthes,1,python
+V Saiteja,"Head-First Python,2nd edition",1,python
+Y Saiteja,Python Crash course by Eric Matthes,1,python
+Y Saiteja,Data science with python,1,data science
+A Deepak,Python Crash course by Eric Matthes,1,python
+A Deepak,Data science with python,1,data science
+C Deepak,Data science with python,1,data science
+D Deepak,Data science with python,1,data science
+E Deepak,"Head-First Python,2nd edition",1,python
+E Deepak,Data science with python,1,data science
+G Deepak,Python Crash course by Eric Matthes,1,python
+G Deepak,Data science with python,1,data science
+H Deepak,"Head-First Python,2nd edition",1,python
+H Deepak,Data science with python,1,data science
+I Deepak,Data science with python,1,data science
+K Deepak,"Head-First Python,2nd edition",1,python
+E Shankar,App development using Java &XML,1,web dev
+S Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+A Shankar,"The full stack developer,Chris Northwood",1,web dev
+B Shankar,Reactjs for beginners,1,web dev
+B Shankar,"The frame work for web-development,angular",1,web dev
+C Shankar,live web server with Reactjs and firebase,1,web dev
+C Shankar,Angular for beginners,1,web dev
+D Shankar,live web server with Reactjs and firebase,1,web dev
+D Shankar,"The frame work for web-development,angular",1,web dev
+V Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+G Shankar,App development using Java &XML,1,web dev
+G Shankar,"UX,UI design for beginners",1,web dev
+K Shankar,"UX,UI design for beginners",1,web dev
+K Shankar,App development using Java &XML,1,web dev
+U Shankar,App development using Java &XML,1,web dev
+A Ganesh,App development using Java &XML,1,web dev
+B Ganesh,"UX,UI design for beginners",1,web dev
+B Ganesh,App development using Java &XML,1,web dev
+B Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+C Sudha,"The full stack developer,Chris Northwood",1,web dev
+C Sudha,"The full stack developer,Chris Northwood",1,web dev
+D Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+D Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+E Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+E Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+L Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+L Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+M Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+N Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+P Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+P Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+R Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+R Sudha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+I Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+V Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+S Deepa,App development using Java &XML,1,web dev
+K Deepa,"UX,UI design for beginners",1,web dev
+K Deepa,App development using Java &XML,1,web dev
+L Deepa,"UX,UI design for beginners",1,web dev
+L Deepa,App development using Java &XML,1,web dev
+O Deepa,"UX,UI design for beginners",1,web dev
+R Deepa,"UX,UI design for beginners",1,web dev
+R Deepa,App development using Java &XML,1,web dev
+S Deepa,"UX,UI design for beginners",1,web dev
+H Deepa,App development using Java &XML,1,web dev
+T Deepa,"UX,UI design for beginners",1,web dev
+U Deepa,"UX,UI design for beginners",1,web dev
+U Deepa,App development using Java &XML,1,web dev
+V Deepa,"UX,UI design for beginners",1,web dev
+V Deepa,App development using Java &XML,1,web dev
+Y Deepa,"UX,UI design for beginners",1,web dev
+B Deepthi,"UX,UI design for beginners",1,web dev
+B Deepthi,App development using Java &XML,1,web dev
+B Deepa,"UX,UI design for beginners",1,web dev
+C Ganesh,App development using Java &XML,1,web dev
+V Ganesh,App development using Java &XML,1,web dev
+V Ganesh,"UX,UI design for beginners",1,web dev
+U Ganesh,"UX,UI design for beginners",1,web dev
+U Ganesh,App development using Java &XML,1,web dev
+M Ganesh,App development using Java &XML,1,web dev
+Y Ganesh,App development using Java &XML,1,web dev
+Y Ganesh,App development using Java &XML,1,web dev
+K Ganesh,"UX,UI design for beginners",1,web dev
+B Deepa,App development using Java &XML,1,web dev
+C Deepa,App development using Java &XML,1,web dev
+D Deepa,App development using Java &XML,1,web dev
+E Deepa,"UX,UI design for beginners",1,web dev
+E Deepa,App development using Java &XML,1,web dev
+G Deepa,"UX,UI design for beginners",1,web dev
+G Deepa,App development using Java &XML,1,web dev
+H Deepa,"UX,UI design for beginners",1,web dev
+N Mahendra,The Data science handbook-Field cady,1,data science
+Manogna sri,Angular for beginners,1,web dev
+Muni,live web server with Reactjs and firebase,1,web dev
+Muni,live web server with Reactjs and firebase,1,web dev
+Mukesh kumar,"Reactjs,the main pillar of web-development",1,web dev
+Mukesh kumar,"The frame work for web-development,angular",1,web dev
+Munisai,live web server with Reactjs and firebase,1,web dev
+Munisai,"The frame work for web-development,angular",1,web dev
+M Mahendra,Data science with python,1,data science
+N Mahendra,Data science with python,1,data science
+Manogna sree,Angular for beginners,1,web dev
+H Mahendra,Data science for dummies,1,data science
+H Mahendra,Data science with python,1,data science
+Y Mahendra,Data science with python,1,data science
+Y Mahendra,Practical statistics for data scientist,1,data science
+T Mahendra,Data science for dummies,1,data science
+T Mahendra,The Data science handbook-Field cady,1,data science
+P Mahendra,Data science for dummies,1,data science
+P Mahendra,Data science from scratch,1,data science
+Nagasai,Data science for dummies,1,data science
+Nagasai P,Data science from scratch,1,data science
+Y Divyasree,Angular for beginners,1,web dev
+Sangeetha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+Geetha,"The full stack developer,Chris Northwood",1,web dev
+Poojabai,Think python:how to think like a computer scientist,1,python
+Poojabai,"Invent your own computer games with python,4th edition",1,python
+Lalitha,Machine learning for beginners,1,data science
+P Divyasree,Angular for beginners,1,web dev
+U Divyasree,"The frame work for web-development,angular",1,web dev
+P Divyasree,Angular for beginners,1,web dev
+Nagasai P,Data science with python,1,data science
+Y Divyasree,Angular for beginners,1,web dev
+F Divyasree,Angular for beginners,1,web dev
+F Divyasree,Reactjs for beginners,1,web dev
+G Divyasree,live web server with Reactjs and firebase,2,web dev
+Y Divyasri,"Reactjs,the main pillar of web-development",1,web dev
+Y Divyasri,live web server with Reactjs and firebase,1,web dev
+I Divya,"The frame work for web-development,angular",1,web dev
+C Hari,Reactjs for beginners,1,web dev
+C Hari,live web server with Reactjs and firebase,1,web dev
+N Ravindra,The Data science handbook-Field cady,1,data science
+L Ravi kumar,Data science with python,1,data science
+L Ravi kumar,Data science for dummies,1,data science
+M Ravi kumar,Practical statistics for data scientist,1,data science
+K Ravindra,Data science from scratch,1,data science
+A Ravindra,Practical statistics for data scientist,1,data science
+N Ravindra,Practical statistics for data scientist,1,data science
+P Ravindra,Practical statistics for data scientist,1,data science
+P Ravindra,Data science from scratch,1,data science
+A Ravi kumar,Data science for dummies,1,data science
+A Mani,Data science from scratch,1,data science
+G Mani,Data science from scratch,1,data science
+G Mani,Data science with python,1,data science
+P Mani,Data science from scratch,1,data science
+R Mani,The Data science handbook-Field cady,1,data science
+R Mani,Data science for dummies,1,data science
+I Mani,The Data science handbook-Field cady,1,data science
+I Mani,Practical statistics for data scientist,1,data science
+J Mani,Data science from scratch,1,data science
+E Ravi,Data science with python,1,data science
+Nagasai N,The Data science handbook-Field cady,2,data science
+A Nagasai,The Data science handbook-Field cady,1,data science
+A Nagasai,Data science for dummies,1,data science
+B Nagasai,Data science for dummies,1,data science
+B Nagasai,Data science with python,1,data science
+D Nagasai,The Data science handbook-Field cady,1,data science
+D Nagasai,Data science from scratch,1,data science
+G Mahadev,Practical statistics for data scientist,1,data science
+A Ravi,Data science for dummies,1,data science
+Sangeetha,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+E Ravi,Practical statistics for data scientist,1,data science
+G Ravi,Practical statistics for data scientist,1,data science
+H Ravi,Data science with python,1,data science
+M Ravi,Practical statistics for data scientist,1,data science
+M Ravi,Data science for dummies,1,data science
+T Ravi,The Data science handbook-Field cady,1,data science
+T Ravi,Data science for dummies,1,data science
+A Ravi kumar,Data science from scratch,1,data science
+D Rajasekhar,Data science from scratch,1,data science
+Dinesh,python programming:using problem solving approach,1,python
+Bharadwaj,Python Crash course by Eric Matthes,1,python
+Bharadwaj,python programming:using problem solving approach,1,python
+Deva,Python Crash course by Eric Matthes,1,python
+Deva,Data structure and algorithm through python,1,python
+Dilip,"Invent your own computer games with python,4th edition",1,python
+Dilip,Think python:how to think like a computer scientist,1,python
+Rithika,Data science with python,1,data science
+Sharma,"Head-First Python,2nd edition",1,python
+Sharma,Machine learning with python,1,data science
+Dinesh,Python Crash course by Eric Matthes,1,python
+Sai Karthik,Data science for dummies,2,data science
+Gouse bhasa,Mastering machine learning algorithm,1,data science
+Mahesh,Machine learning with python,1,data science
+Yogibabu,Hands on Machine Learning with scikit-learn,1,data science
+Mahesh,Practical statistics for data scientist,1,data science
+Bindumathi,"Head-First Python,2nd edition",1,python
+Bindumathi,python programming:using problem solving approach,1,python
+Hari Prakash,Data structure and algorithm through python,1,python
+Bharathi,"Head-First Python,2nd edition",1,python
+Bharathi,"Invent your own computer games with python,4th edition",1,python
+Mohan,Think python:how to think like a computer scientist,1,python
+Mohan,"Invent your own computer games with python,4th edition",1,python
+Ram,python programming:using problem solving approach,1,python
+Uma,Data structure and algorithm through python,1,python
+Keerthy,"Invent your own computer games with python,4th edition",1,python
+Saikiran,python programming:using problem solving approach,1,python
+Monish,Python Crash course by Eric Matthes,1,python
+Monish,python programming:using problem solving approach,1,python
+Manish,"Head-First Python,2nd edition",1,python
+Pandey,"Head-First Python,2nd edition",1,python
+Pandey,Data structure and algorithm through python,1,python
+Gayathri,Python Crash course by Eric Matthes,1,python
+Gayathri,python programming:using problem solving approach,1,python
+Haribabu,The Data science handbook-Field cady,1,data science
+Adi lakshmi,python programming:using problem solving approach,1,python
+Adi lakshmi,Data structure and algorithm through python,1,python
+B Haribabu,Data science for dummies,1,data science
+B Haribabu,Data science from scratch,1,data science
+Rishi,"The frame work for web-development,angular",1,web dev
+Rishi,Angular for beginners,1,web dev
+Rishi kumar,App development using Java &XML,1,web dev
+Haribabu,Data science with python,1,data science
+Sushmithasen,live web server with Reactjs and firebase,1,web dev
+Purnachandra,Backbone of webdevelopment-angular,1,web dev
+Trivikram,Think python:how to think like a computer scientist,1,python
+Trivikram,"Invent your own computer games with python,4th edition",1,python
+Vijaykumar naik,Machine learning for beginners,1,data science
+Vijaykumar naik,Machine learning and deep learning,1,data science
+Suguna,Machine learning with python,1,data science
+Suguna,Mastering machine learning algorithm,1,data science
+Jashmitha,"UX,UI design for beginners",1,web dev
+Umamaheswar,Data science from scratch,1,data science
+Umamaheswar,Data science with python,1,data science
+Bhuvan,Data science from scratch,1,data science
+Bhuvan,Data science with python,1,data science
+Tejeswani,Data science for dummies,1,data science
+Tejeswani,Data science for dummies,1,data science
+Richik,Machine learning with python,1,data science
+Rashmika,python programming:using problem solving approach,1,python
+Rashmika,Data structure and algorithm through python,1,python
+Agarwal,Data structure and algorithm through python,1,python
+Parameswar,python programming:using problem solving approach,1,python
+Kumar,Machine learning with python,1,data science
+Kumar,Mastering machine learning algorithm,1,data science
+Seshadri,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+Somesh,Data science with python,1,data science
+Somesh,Machine learning for beginners,1,data science
+Eeswari,Hands on Machine Learning with scikit-learn,1,data science
+Eeswari,Machine learning for beginners,1,data science
+D Dileep,Hands on Machine Learning with scikit-learn,1,data science
+K Munisai,Practical statistics for data scientist,1,data science
+A Nithish,Practical statistics for data scientist,1,data science
+A Nithish,The Data science handbook-Field cady,1,data science
+B Dileep,Machine learning with python,1,data science
+J Mani,Data science with python,1,data science
+C Dileep,Machine learning and deep learning,1,data science
+C Dileep,Machine learning for beginners,1,data science
+K Munisai,Data science for dummies,1,data science
+E Dileep kumar,Machine learning for beginners,1,data science
+E Dileep kumar,Mastering machine learning algorithm,1,data science
+B Jayasurya,Machine learning for beginners,1,data science
+B Jayasurya,Machine learning and deep learning,1,data science
+Jayasurya A,Machine learning with python,1,data science
+J Ranaprathap Reddy,Data science with python,1,data science
+D Ranaprathap,The Data science handbook-Field cady,1,data science
+D Ranaprathap,The Data science handbook-Field cady,1,data science
+K Ranaprathap,Data science from scratch,1,data science
+K Ranaprathap,The Data science handbook-Field cady,1,data science
+N Ranaprathap,The Data science handbook-Field cady,1,data science
+N Ranaprathap,The Data science handbook-Field cady,1,data science
+M Ranaprthap Reddy,Data science from scratch,1,data science
+M Ranaprthap Reddy,Data science with python,1,data science
+J Ranaprathap Reddy,Practical statistics for data scientist,1,data science
+E Jayasurya,Mastering machine learning algorithm,1,data science
+A RanaPrathap Reddy,Data science with python,1,data science
+A RanaPrathap Reddy,Practical statistics for data scientist,1,data science
+B Munisai,The Data science handbook-Field cady,1,data science
+B Munisai,Practical statistics for data scientist,1,data science
+C Munisai,Data science for dummies,1,data science
+D Munisai,Data science with python,1,data science
+D Munisai,Data science for dummies,1,data science
+T Kalyan babu,Machine learning for beginners,1,data science
+A Ramireddy,Machine learning with python,1,data science
+A Ramireddy,Machine learning and deep learning,1,data science
+B Ramireddy,Machine learning for beginners,1,data science
+D Ramireddy,Mastering machine learning algorithm,1,data science
+D Ramireddy,Machine learning with python,1,data science
+G Ramireddy,Hands on Machine Learning with scikit-learn,1,data science
+G Ramireddy,Machine learning with python,1,data science
+T Kalyan babu,Mastering machine learning algorithm,1,data science
+P Sukumar,Data science with python,1,data science
+Narendra,Data science with python,1,data science
+Narendra,Machine learning for beginners,1,data science
+A Nagendra,The Data science handbook-Field cady,1,data science
+A Nagendra,Machine learning with python,1,data science
+B Nagendra,Machine learning with python,1,data science
+C Nagendra,Machine learning for beginners,1,data science
+T Dinesh kumar,Machine learning for beginners,1,data science
+G Jayasurya,Machine learning with python,1,data science
+G Jayasurya,Machine learning for beginners,1,data science
+U Jayasurya,Machine learning for beginners,1,data science
+A Hemanth,Data science with python,1,data science
+JD Dinesh,Machine learning for beginners,1,data science
+T Dinesh kumar,Machine learning with python,1,data science
+B Dileep,Mastering machine learning algorithm,1,data science
+M Nithish yadav,Machine learning with python,1,data science
+B Nithish yadav,Machine learning for beginners,1,data science
+B Nithish yadav,Machine learning for beginners,1,data science
+B Kalyan babu,Mastering machine learning algorithm,1,data science
+B Kalyan babu,Machine learning for beginners,1,data science
+K Kalyan babu,Mastering machine learning algorithm,1,data science
+K Kalyan babu,Machine learning and deep learning,1,data science
+J Surya,Data science from scratch,1,data science
+A Ranaprathap,Practical statistics for data scientist,1,data science
+M Sivakumar,Practical statistics for data scientist,1,data science
+M Sivakumar,Data science from scratch,1,data science
+G Sivakumar,Data science for dummies,1,data science
+G Sivakumar,Data science with python,1,data science
+C Sivakumar,The Data science handbook-Field cady,1,data science
+C Sivakumar,Data science from scratch,1,data science
+B Sivakumar,Data science with python,1,data science
+H Surya,Practical statistics for data scientist,1,data science
+H Surya,The Data science handbook-Field cady,1,data science
+S Sivakumar,Data science with python,1,data science
+S Sivakumar,Data science for dummies,1,data science
+A Surya,Practical statistics for data scientist,1,data science
+A Surya,Data science from scratch,1,data science
+T Ratnakumar,Data science with python,1,data science
+T Ratnakumar,Practical statistics for data scientist,1,data science
+D Ratnakumar,Data science with python,1,data science
+D Ratnakumar,Practical statistics for data scientist,1,data science
+C Ratnakumar,Practical statistics for data scientist,1,data science
+C Ratnakumar,Data science with python,1,data science
+A Ratnakumar,Data science from scratch,1,data science
+A Ratnakumar,Data science from scratch,1,data science
+B Ranaprathap,Data science for dummies,1,data science
+T Ravindra,Data science with python,1,data science
+C Kalyan babu,Mastering machine learning algorithm,1,data science
+L lakshmi sai,Hands on Machine Learning with scikit-learn,1,data science
+J Chandra sekhar,Machine learning and deep learning,1,data science
+Saidivya,Hands on Machine Learning with scikit-learn,1,data science
+R Chandra sekhar,Practical statistics for data scientist,1,data science
+N Sai hithesh,Practical statistics for data scientist,1,data science
+G Kalyan babu,Machine learning and deep learning,1,data science
+Sri Vidya,Machine learning for beginners,1,data science
+C Surya,Data science for dummies,1,data science
+R Ravindra,The Data science handbook-Field cady,1,data science
+Hemasundar,"Head-First Python,2nd edition",1,python
+M Manish yadav,Machine learning with python,1,data science
+M Sathish kumar,Data science from scratch,1,data science
+D Sudheer kumar,Machine learning with python,1,data science
+H Ravindra,The Data science handbook-Field cady,1,data science
+Yogesh,"Head-First Python,2nd edition",1,python
+O Ravindra,Practical statistics for data scientist,1,data science
+M Manish sai,Hands on Machine Learning with scikit-learn,1,data science
+N Dinesh,Mastering machine learning algorithm,1,data science
+B Akhil,"Reactjs,the main pillar of web-development",1,web dev
+U Surya,The Data science handbook-Field cady,1,data science
+A  Akhil,"Reactjs,the main pillar of web-development",1,web dev
+I Mahendra,The Data science handbook-Field cady,1,data science
+Maruthi,Machine learning with python,1,data science
+M Manish kumar,Machine learning for beginners,1,data science
+D Mahendra,Data science for dummies,1,data science
+D Mahadev,Data science with python,1,data science
+Mahesh kumar,Think python:how to think like a computer scientist,1,python
+C Sasidhar,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+V Nithish yadav,Mastering machine learning algorithm,1,data science
+R Kalyan babu,Machine learning for beginners,1,data science
+Sudheer,"Head-First Python,2nd edition",1,python
+Suresh,"Invent your own computer games with python,4th edition",1,python
+M Ramireddy,Machine learning for beginners,1,data science
+V Ramireddy,Machine learning for beginners,1,data science
+I Ranaprathap,Data science for dummies,1,data science
+Vijay,Data structure and algorithm through python,1,python
+Nagasi P,Data science with python,1,data science
+M Sukumar,Machine learning for beginners,1,data science
+Chandrasena,"Head-First Python,2nd edition",1,python
+P Ramireddy,Mastering machine learning algorithm,1,data science
+Pavan kumar,Data structure and algorithm through python,1,python
+Veerapavan,"Head-First Python,2nd edition",1,python
+J Rajasekhar,"The frame work for web-development,angular",1,web dev
+T Mani,Data science for dummies,1,data science
+H Ranaprathap,Data science for dummies,1,data science
+Nagasai J,Data science with python,1,data science
+Y Rajasekhar,"The full stack developer,Chris Northwood",1,web dev
+C Ranaprathap,Data science with python,1,data science
+C Mani,Practical statistics for data scientist,1,data science
+A Mahadev,Data science from scratch,1,data science
+N Ratnakumar,Data science from scratch,1,data science
+I Sathish,Data science from scratch,1,data science
+U Sathish,Data science with python,1,data science
+O Mahendra,Data science with python,1,data science
+Sabitha,Python Crash course by Eric Matthes,1,python
+B Mani,Data science for dummies,1,data science
+C Ramireddy,Machine learning with python,1,data science
+V Kalyan babu,Machine learning for beginners,1,data science
+D Mani,Data science from scratch,1,data science
+I Manasa,"The full stack developer,Chris Northwood",1,web dev
+U Sudha,"HTML,CSS,Javascript web publishing",1,web dev
+L Ramireddy,Machine learning and deep learning,1,data science
+Suman,python programming:using problem solving approach,1,python
+U Ramireddy,Mastering machine learning algorithm,1,data science
+O Divyasree,Angular for beginners,1,web dev
+TR Rajasekhar,"Reactjs,the main pillar of web-development",1,web dev
+U Manasa,Reactjs for beginners,1,web dev
+J Ravi,Data science with python,1,data science
+L Ravi,Data science for dummies,1,data science
+G Mahendra,Data science with python,1,data science
+RS Rajasekhar,Angular for beginners,1,web dev
+RVS Rajasekhar,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+R Rajasekhar,"Reactjs,the main pillar of web-development",1,web dev
+T Divyasree,Angular for beginners,1,web dev
+K Ravi,Practical statistics for data scientist,1,data science
+H Prasanna kumar,App development using Java &XML,1,web dev
+T Prasanna kumar,"Reactjs,the main pillar of web-development",1,web dev
+S Ravi,The Data science handbook-Field cady,1,data science
+G Prasanna,"HTML,CSS,Javascript web publishing",1,web dev
+TS Rajasekhar,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+Y Manasa,"The full stack developer,Chris Northwood",1,web dev
+A Munisai,Data science from scratch,1,data science
+J Mahadev,Data science for dummies,1,data science
+Munesh,Angular for beginners,1,web dev
+I Mahadev,Practical statistics for data scientist,1,data science
+Lokesh kumar,Angular for beginners,1,web dev
+Manaswi M,"The frame work for web-development,angular",1,web dev
+B Ravi,Practical statistics for data scientist,1,data science
+C Ravi,Practical statistics for data scientist,1,data science
+B Mahendra,Data science for dummies,1,data science
+N Sivakumar,Practical statistics for data scientist,1,data science
+H Mahadev,The Data science handbook-Field cady,1,data science
+T Sivakumar,Data science from scratch,1,data science
+C Rajasekhar,live web server with Reactjs and firebase,1,web dev
+Z Divyasri,Angular for beginners,1,web dev
+TM Rajasekhar,"The full stack developer,Chris Northwood",1,web dev
+C Nithish,Data science with python,1,data science
+R Hema kumar,Machine learning and deep learning,1,data science
+U Ravi kumar,Data science for dummies,1,data science
+U Mahendra,Data science for dummies,1,data science
+B Hemanth,Machine learning for beginners,1,data science
+J Hemanth,Mastering machine learning algorithm,1,data science
+M Hemanth,Hands on Machine Learning with scikit-learn,1,data science
+M Akhil,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+S Akhil,Angular for beginners,1,web dev
+C Haribabu,Data science with python,1,data science
+B Hema Kumar,Hands on Machine Learning with scikit-learn,1,data science
+T Hema kumar,Machine learning for beginners,1,data science
+A Dinesh,Mastering machine learning algorithm,1,data science
+B Dinesh,Machine learning for beginners,1,data science
+Tejasree,Mastering machine learning algorithm,1,data science
+Chalameswar,Data science for dummies,1,data science
+D Akhil,Angular for beginners,1,web dev
+Sushmithsen,live web server with Reactjs and firebase,1,web dev
+A Sivakumar,The Data science handbook-Field cady,1,data science
+B Ravi kumar,Data science with python,1,data science
+Sharaschandra,Reactjs for beginners,1,web dev
+1,Practical statistics for data scientist,1,data science
+J Jayasurya,Mastering machine learning algorithm,1,data science
+AL Akhil,"HTML5,CSS3,Javascript php-blackwood",1,web dev
+I Akhil,"Reactjs,the main pillar of web-development",1,web dev
+G Ravi kumar,Data science with python,1,data science
+M Jayasurya,Machine learning with python,1,data science
+N Jayasurya,Machine learning for beginners,1,data science
+L Jayasurya,Machine learning for beginners,1,data science
+V Jayasurya,Machine learning with python,1,data science
